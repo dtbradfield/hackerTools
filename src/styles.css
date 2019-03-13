@@ -1,6 +1,7 @@
 body {
     background-color: #212324;
     color:#C1B386;
+    padding-top: 65px;
 }
 
 h1 {
@@ -19,4 +20,8 @@ hr {
 
 h2 {
     color: #A7B38F;
+}
+
+a {
+    color: #5F7266;
 }
